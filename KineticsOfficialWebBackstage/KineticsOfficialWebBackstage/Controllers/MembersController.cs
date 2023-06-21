@@ -31,10 +31,10 @@ namespace KineticsOfficialWebBackstage.Controllers
         [ValidateAntiForgeryToken]
         public IActionResult Login(Member _User)
         {
-            if (_User.Password == null)
-            {
-                return View();
-            }
+            //if (_User.Password == null)
+            //{
+            //    return View();
+            //}
             using (MD5 md5Hash = MD5.Create())
             {
                 string hash = MyLogin.GetMd5Hash(md5Hash, _User.Password);

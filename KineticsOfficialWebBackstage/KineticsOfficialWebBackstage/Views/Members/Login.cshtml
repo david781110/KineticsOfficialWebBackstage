@@ -38,6 +38,7 @@
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
                 <label asp-for="Name" class="form-label"></label>
+                <i class="fa-solid fa-user"></i>
                 <input asp-for="Name" class="form-control" placeholder="必填" />
                 <div class="invalid-feedback">
                     請輸入帳號
@@ -47,6 +48,8 @@
             </div>
             <div class="form-group">
                 <label asp-for="Password" class="form-label"></label>
+                
+                <i class="fa-solid fa-key"></i>
                 <input asp-for="Password" class="form-control" type="password" placeholder="必填" />
                 <div class="invalid-feedback">
                     請輸入密碼
@@ -99,11 +102,12 @@
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
-    @section Scripts {
+    <script src="https://kit.fontawesome.com/239ad448de.js" crossorigin="anonymous"></script>
         @{
-
             await Html.RenderPartialAsync("_ValidationScriptsPartial");
         }
+    @section Scripts {
+
     }
 </body>
 </html>

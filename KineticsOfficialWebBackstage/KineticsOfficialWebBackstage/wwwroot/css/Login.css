@@ -37,4 +37,15 @@ body {
     font-size:20px;
     margin-top:15px;
 }
+/*form .form-group input {
+    padding:0px 12px 0px 34px
+}*/
+
+form .form-group i {
+    position:absolute;
+    color:#404040;
+    font-size:18px;
+    transform:translateX(10px) translateY(4px);
+}
+
 
