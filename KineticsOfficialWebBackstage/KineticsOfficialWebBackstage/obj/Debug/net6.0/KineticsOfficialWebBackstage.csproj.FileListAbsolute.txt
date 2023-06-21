@@ -70,7 +70,6 @@ C:\Users\davidliu\Desktop\KineticsOfficialWebBackstage\KineticsOfficialWebBackst
 C:\Users\davidliu\Desktop\KineticsOfficialWebBackstage\KineticsOfficialWebBackstage\KineticsOfficialWebBackstage\obj\Debug\net6.0\KineticsOfficialWebBackstage.pdb
 C:\Users\davidliu\Desktop\KineticsOfficialWebBackstage\KineticsOfficialWebBackstage\KineticsOfficialWebBackstage\obj\Debug\net6.0\KineticsOfficialWebBackstage.genruntimeconfig.cache
 C:\Users\davidliu\Desktop\KineticsOfficialWebBackstage\KineticsOfficialWebBackstage\KineticsOfficialWebBackstage\obj\Debug\net6.0\ref\KineticsOfficialWebBackstage.dll
-C:\Users\davidliu\Desktop\KineticsOfficialWebBackstage\KineticsOfficialWebBackstage\KineticsOfficialWebBackstage\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout - 複製.cshtml.rz.scp.css
 C:\Users\davidliu\Desktop\KineticsOfficialWebBackstage\KineticsOfficialWebBackstage\KineticsOfficialWebBackstage\bin\Debug\net6.0\efpt.config.json
 C:\Users\davidliu\Desktop\KineticsOfficialWebBackstage\KineticsOfficialWebBackstage\KineticsOfficialWebBackstage\bin\Debug\net6.0\MessagePack.dll
 C:\Users\davidliu\Desktop\KineticsOfficialWebBackstage\KineticsOfficialWebBackstage\KineticsOfficialWebBackstage\bin\Debug\net6.0\MessagePack.Annotations.dll
@@ -286,3 +285,4 @@ C:\Users\davidliu\Desktop\KineticsOfficialWebBackstage\KineticsOfficialWebBackst
 C:\Users\davidliu\Desktop\KineticsOfficialWebBackstage\KineticsOfficialWebBackstage\KineticsOfficialWebBackstage\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 C:\Users\davidliu\Desktop\KineticsOfficialWebBackstage\KineticsOfficialWebBackstage\KineticsOfficialWebBackstage\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\davidliu\Desktop\KineticsOfficialWebBackstage\KineticsOfficialWebBackstage\KineticsOfficialWebBackstage\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\davidliu\Desktop\KineticsOfficialWebBackstage\KineticsOfficialWebBackstage\KineticsOfficialWebBackstage\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout2.cshtml.rz.scp.css

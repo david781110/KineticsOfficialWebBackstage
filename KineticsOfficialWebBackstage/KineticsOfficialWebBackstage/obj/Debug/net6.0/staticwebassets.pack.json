@@ -3113,6 +3113,10 @@
       "PackagePath": "staticwebassets\\assets\\plugins\\vectormap\\jvectormap.custom.js"
     },
     {
+      "Id": "C:\\Users\\davidliu\\Desktop\\KineticsOfficialWebBackstage\\KineticsOfficialWebBackstage\\KineticsOfficialWebBackstage\\wwwroot\\css\\Login.css",
+      "PackagePath": "staticwebassets\\css\\Login.css"
+    },
+    {
       "Id": "C:\\Users\\davidliu\\Desktop\\KineticsOfficialWebBackstage\\KineticsOfficialWebBackstage\\KineticsOfficialWebBackstage\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -3123,6 +3127,10 @@
     {
       "Id": "C:\\Users\\davidliu\\Desktop\\KineticsOfficialWebBackstage\\KineticsOfficialWebBackstage\\KineticsOfficialWebBackstage\\wwwroot\\images\\kinetics.svg",
       "PackagePath": "staticwebassets\\images\\kinetics.svg"
+    },
+    {
+      "Id": "C:\\Users\\davidliu\\Desktop\\KineticsOfficialWebBackstage\\KineticsOfficialWebBackstage\\KineticsOfficialWebBackstage\\wwwroot\\images\\logo.063a4162.png",
+      "PackagePath": "staticwebassets\\images\\logo.063a4162.png"
     },
     {
       "Id": "C:\\Users\\davidliu\\Desktop\\KineticsOfficialWebBackstage\\KineticsOfficialWebBackstage\\KineticsOfficialWebBackstage\\wwwroot\\js\\site.js",

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "lY4o1NMumg4i5Vm4xj9sQlhYBNQv8YxwD8ocAJB89Js=",
+  "Hash": "AdAx4wSmsOPfRqUnGd3Qv846T8t98F34u83iHLwMwfc=",
   "Source": "KineticsOfficialWebBackstage",
   "BasePath": "_content/KineticsOfficialWebBackstage",
   "Mode": "Default",
@@ -14280,6 +14280,23 @@
       "OriginalItemSpec": "wwwroot\\assets\\plugins\\vectormap\\jvectormap.custom.js"
     },
     {
+      "Identity": "C:\\Users\\davidliu\\Desktop\\KineticsOfficialWebBackstage\\KineticsOfficialWebBackstage\\KineticsOfficialWebBackstage\\wwwroot\\css\\Login.css",
+      "SourceId": "KineticsOfficialWebBackstage",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\davidliu\\Desktop\\KineticsOfficialWebBackstage\\KineticsOfficialWebBackstage\\KineticsOfficialWebBackstage\\wwwroot\\",
+      "BasePath": "_content/KineticsOfficialWebBackstage",
+      "RelativePath": "css/Login.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Login.css"
+    },
+    {
       "Identity": "C:\\Users\\davidliu\\Desktop\\KineticsOfficialWebBackstage\\KineticsOfficialWebBackstage\\KineticsOfficialWebBackstage\\wwwroot\\css\\site.css",
       "SourceId": "KineticsOfficialWebBackstage",
       "SourceType": "Discovered",
@@ -14329,6 +14346,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\kinetics.svg"
+    },
+    {
+      "Identity": "C:\\Users\\davidliu\\Desktop\\KineticsOfficialWebBackstage\\KineticsOfficialWebBackstage\\KineticsOfficialWebBackstage\\wwwroot\\images\\logo.063a4162.png",
+      "SourceId": "KineticsOfficialWebBackstage",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\davidliu\\Desktop\\KineticsOfficialWebBackstage\\KineticsOfficialWebBackstage\\KineticsOfficialWebBackstage\\wwwroot\\",
+      "BasePath": "_content/KineticsOfficialWebBackstage",
+      "RelativePath": "images/logo.063a4162.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\logo.063a4162.png"
     },
     {
       "Identity": "C:\\Users\\davidliu\\Desktop\\KineticsOfficialWebBackstage\\KineticsOfficialWebBackstage\\KineticsOfficialWebBackstage\\wwwroot\\js\\site.js",
